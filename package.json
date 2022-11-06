@@ -1,0 +1,22 @@
+{
+  "name": "node_4_quest",
+  "version": "1.0.0",
+  "description": "quetes dotenv 💪 Challenge Crée une petite application Node.js qui va juste afficher ce message : I am <name>, wilder in <city>, and I love <language>.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeWernert/Node_4_Quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeWernert/Node_4_Quest/issues"
+  },
+  "homepage": "https://github.com/GuillaumeWernert/Node_4_Quest#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
